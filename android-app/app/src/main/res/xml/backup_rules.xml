@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Include shared preferences -->
+    <include domain="sharedpref" path="."/>
+    
+    <!-- Exclude sensitive data -->
+    <exclude domain="sharedpref" path="device_prefs.xml"/>
+    <exclude domain="database" path="secure.db"/>
+</full-backup-content>

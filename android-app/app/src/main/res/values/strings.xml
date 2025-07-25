@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suki</string>
+    <string name="widget_description">Quick mood logging with your emotional companion</string>
+    <string name="mood_logged">Mood logged!</string>
+    <string name="how_are_you_feeling">How are you feeling?</string>
+    <string name="your_emotional_companion">Your emotional companion</string>
+    <string name="todays_mood_journey">Today\'s Mood Journey</string>
+    <string name="recent_entries">Recent Entries</string>
+    <string name="tap_to_see_more">Tap to see more</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="110dp"
+    android:viewportWidth="250"
+    android:viewportHeight="110">
+    
+    <!-- Widget background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h250v110h-250z"/>
+    
+    <!-- Border -->
+    <path
+        android:fillColor="@null"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="2"
+        android:pathData="M2,2h246v106h-246z"/>
+    
+    <!-- Pet area -->
+    <path 
+        android:fillColor="#FFE5F1" 
+        android:pathData="M55,55m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0"/>
+    
+    <!-- Pet emoji placeholder -->
+    <path 
+        android:fillColor="#FF69B4" 
+        android:pathData="M55,50m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+    <path 
+        android:fillColor="#FF69B4" 
+        android:pathData="M55,65m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"/>
+    
+    <!-- Mood buttons -->
+    <path android:fillColor="#FFD700" android:pathData="M130,55m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+    <path android:fillColor="#98FB98" android:pathData="M155,55m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+    <path android:fillColor="#FF69B4" android:pathData="M180,55m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+    <path android:fillColor="#87CEEB" android:pathData="M205,55m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+    <path android:fillColor="#DDA0DD" android:pathData="M230,55m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+    
+    <!-- Widget preview showing pet and mood buttons -->
+</vector>

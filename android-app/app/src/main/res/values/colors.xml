@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Suki Brand Colors - Doodle Theme -->
+    <color name="suki_pink">#FFB6C1</color>
+    <color name="suki_pink_light">#FFE5F1</color>
+    <color name="suki_pink_dark">#8B637A</color>
+    
+    <color name="suki_green">#98FB98</color>
+    <color name="suki_green_light">#E8F5E8</color>
+    <color name="suki_green_dark">#6B8B6B</color>
+    
+    <color name="suki_yellow">#FFD700</color>
+    <color name="suki_yellow_light">#FFF8DC</color>
+    <color name="suki_yellow_dark">#B8860B</color>
+    
+    <color name="suki_blue">#B6E5FF</color>
+    <color name="suki_blue_light">#E5F3FF</color>
+    <color name="suki_blue_dark">#7BA7BC</color>
+    
+    <color name="suki_purple">#DDA0DD</color>
+    <color name="suki_purple_light">#F0E5FF</color>
+    <color name="suki_purple_dark">#9B7B9B</color>
+    
+    <!-- App Background Colors - Soft and warm -->
+    <color name="suki_background">#FAF9F7</color>
+    <color name="suki_on_background">#2D2D2D</color>
+    <color name="suki_surface">#FFFEF8</color>
+    <color name="suki_on_surface">#2D2D2D</color>
+    
+    <!-- Standard colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+</resources>

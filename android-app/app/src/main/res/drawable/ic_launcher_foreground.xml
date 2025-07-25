@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Suki pet icon - cherry blossom design -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M54,30c-6,0 -12,5 -12,12c0,12 12,20 12,20s12,-8 12,-20c0,-7 -6,-12 -12,-12z"/>
+    
+    <!-- Inner heart -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38c-3,0 -6,2 -6,5c0,6 6,10 6,10s6,-4 6,-10c0,-3 -3,-5 -6,-5z"/>
+    
+    <!-- Cherry blossom petals -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M54,65m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"/>
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M54,65m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+        
+    <!-- Simple doodle dog inspired by the attachments -->
+    <!-- Dog body -->
+    <path
+        android:fillColor="#FFE5F1"
+        android:pathData="M40,50C40,40 50,35 60,40C70,35 80,40 80,50L80,65C80,70 75,75 70,75L50,75C45,75 40,70 40,65Z"/>
+    
+    <!-- Dog head -->
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M45,40C45,30 55,25 65,30C75,25 85,30 85,40C85,50 75,55 65,55C55,55 45,50 45,40Z"/>
+    
+    <!-- Dog ears -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M50,35C50,30 55,25 60,30C55,35 50,35 50,35Z"/>
+    <path
+        android:fillColor="#FFB6C1" 
+        android:pathData="M70,30C75,25 80,30 80,35C75,35 70,35 70,30Z"/>
+    
+    <!-- Dog eyes - simple dots -->
+    <path android:fillColor="#2D2D2D" android:pathData="M58,40m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+    <path android:fillColor="#2D2D2D" android:pathData="M72,40m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+    
+    <!-- Dog nose -->
+    <path android:fillColor="#2D2D2D" android:pathData="M65,45m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+    
+    <!-- Simple smile -->
+    <path 
+        android:strokeColor="#2D2D2D"
+        android:strokeWidth="1.5"
+        android:pathData="M62,47C64,49 66,49 68,47"/>
+        
+</vector>

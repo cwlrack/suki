@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <!-- Suki App Theme -->
+    <style name="Theme.Suki" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Primary colors -->
+        <item name="android:colorPrimary">@color/suki_pink</item>
+        <item name="android:colorPrimaryDark">@color/suki_pink_dark</item>
+        <item name="android:colorAccent">@color/suki_green</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/suki_background</item>
+        <item name="android:textColorPrimary">@color/suki_on_background</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/suki_pink</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+    
+</resources>

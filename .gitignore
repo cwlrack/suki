@@ -1,6 +1,56 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.eggs/
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS junk
+Thumbs.db
+Desktop.ini
+
+# Compiled
+*.o
+*.so
+*.out
+*.class
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# IDEs
+.idea/
 *.iml
-.gradle/
-/local.properties
-/.idea/
-/build/
-*.apk
+*.swp
+*.swo
+
+# Other
+.env
