@@ -27,10 +27,11 @@ Initial release focused on core emotional memory companion functionality with es
 Essential functionality that provides immediate emotional wellness value while establishing strong foundation:
 
 **Essential Emotional Tracking:**
-- [[01-Core-Features/01-One-Tap-Mood-Logging|One-tap mood logging]] - Simple, effortless emotional capture
-- [[01-Core-Features/02-Visual-Memory-Pet|Basic memory pet]] - Responsive emotional companion with core personality
-- [[01-Core-Features/03-Photo-Media-Support|Photo attachment]] - Visual memory capture and emotional storytelling
-- [[01-Core-Features/04-Simple-Tagging-System|Simple tagging]] - Basic context awareness without overwhelming complexity
+- [[01-Core-Features/07-Interactive-Widgets|Home screen widgets]] - **PRIMARY FEATURE** - One-tap mood logging directly from home screen
+- [[01-Core-Features/01-One-Tap-Mood-Logging|Frictionless mood capture]] - Widget-integrated emotional logging with zero navigation
+- [[01-Core-Features/02-Visual-Memory-Pet|Responsive memory pet]] - Widget-visible companion that reacts instantly to mood input
+- [[01-Core-Features/03-Photo-Media-Support|Visual memory capture]] - Quick photo attachment from widget interface
+- [[01-Core-Features/04-Simple-Tagging-System|Contextual tagging]] - Simple context awareness without overwhelming complexity
 
 **Privacy and Safety Foundation:**
 - [[01-Core-Features/09-Privacy-Sharing-Controls|Local data storage]] - Complete on-device data protection
@@ -39,10 +40,10 @@ Essential functionality that provides immediate emotional wellness value while e
 - [[04-Technical-Foundation/Backups & Storage|Secure backup]] - Reliable emotional memory preservation
 
 **Essential User Experience:**
-- [[03-User-Experience/01-Onboarding-User-Flow|Gentle onboarding]] - Emotional safety-focused first experience
-- [[03-User-Experience/03-Customization-Themes|Basic customization]] - Core personalization for emotional comfort
-- [[03-User-Experience/Accessibility-&-Ethics|Accessibility foundation]] - Screen reader support and basic accessibility features
-- [[01-Core-Features/07-Interactive-Widgets|Home screen widget]] - Ambient presence for daily emotional connection
+- [[03-User-Experience/01-Onboarding-User-Flow|Widget-first onboarding]] - Teaching users the one-tap logging system
+- [[01-Core-Features/07-Interactive-Widgets|Home screen integration]] - **CORE INNOVATION** - Making mood tracking unconscious habit
+- [[03-User-Experience/03-Customization-Themes|Basic customization]] - Widget appearance personalization for emotional comfort
+- [[03-User-Experience/Accessibility-&-Ethics|Accessibility foundation]] - Widget accessibility and inclusive design principles
 
 ### MVP Success Criteria
 **Emotional Wellness Indicators:**
